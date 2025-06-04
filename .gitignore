@@ -157,7 +157,6 @@ fabric.properties
 
 .idea/*
 
-!.idea/codeStyles
-!.idea/runConfigurations
 
+.env
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,webstorm+all,nextjs,react
